@@ -3,7 +3,6 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmichaitanya2008&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmichaitanya2008" /> </p>  
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshmichaitanya2008" alt="lakshmichaitanya2008" /></a> </p>  
   
 - 🔭 I’m currently working on [My blog](https://code-with-chaitanya.vercel.app/)  
   
