@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmichaitanya2008&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmichaitanya2008" /> </p>
 
-- 🔭 I’m currently working on [Codepen clone](https://htmlsandbox.netlify.app/)
-
 - 🌱 I’m currently learning **React.js**
 
 - 📝 I regularly write articles on [https://code-with-chaitanya.vercel.app](https://code-with-chaitanya.vercel.app)
