@@ -1,23 +1,29 @@
-<h1 align="center">Hi 👋, I'm Lakshmi Chaitanya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmichaitanya2008&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmichaitanya2008" /> </p>
-
-- 🌱 I’m currently learning **React.js**
-
-- 📝 I regularly write articles on [https://code-with-chaitanya.vercel.app](https://code-with-chaitanya.vercel.app)
-
-- 📫 How to reach me **lakshmichaitanyachalamalasetti@gmail.com**
-
-- ⚡ Fun fact **I am dumb**
+# Hi, I'm Lakshmi Chaitanya! 👋
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+I'm currently diving into the world of full stack development, learning both the front-end and back-end. My goal is to learn a wide range of technologies and frameworks to build robust and user-friendly web applications. I enjoy solving problems, writing clean code.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshmichaitanya2008&show_icons=true&locale=en&layout=compact" alt="lakshmichaitanya2008" /></p>
+## 🛠 Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshmichaitanya2008&show_icons=true&locale=en" alt="lakshmichaitanya2008" /></p>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmichaitanya2008&" alt="lakshmichaitanya2008" /></p>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on my self
+
+🧠 I'm currently learning full stack development
+
+⚡️ Fun fact I love anime
 
