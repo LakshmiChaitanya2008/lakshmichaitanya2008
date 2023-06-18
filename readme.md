@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm currently diving into the world of full stack development, learning both the front-end and back-end. My goal is to learn a wide range of technologies and frameworks to build robust and user-friendly web applications. I enjoy solving problems, writing clean code.
+I'm currently diving into the world of full stack development, learning wide range of technologies and frameworks to build robust and user-friendly web applications. I enjoy solving problems, writing clean code.
 
 ## 🛠 Skills
 
