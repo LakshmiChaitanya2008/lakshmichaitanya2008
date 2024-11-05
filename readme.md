@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakshmi Chaitanya</h1>
 <h3>I'm currently diving into the world of full stack development, learning wide range of technologies and frameworks to build robust and user-friendly web applications. I enjoy solving problems, writing clean code.</h3>
 
-- 🌱 I’m currently learning **Full stack development with Next.js**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - ⚡ Fun fact **I think I am funny (yes I am)**
 
