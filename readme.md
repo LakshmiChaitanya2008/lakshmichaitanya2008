@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Lakshmi Chaitanya</h1>
-<h3>I'm currently diving into the world of full stack development, learning wide range of technologies and frameworks to build robust and user-friendly web applications. I enjoy solving problems, writing clean code.</h3>
+![Header](https://github.com/user-attachments/assets/0b832949-1a9a-4472-abfb-b033770b783a)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+# Hello 👋
+A developer from Vijayawada by passion, I am a tech enthusiast who hopes to make people's lives simpler and easier through my ever-growing skills. I always wish to learn new things and open to any area in software development.
 
-- ⚡ Fun fact **I think I am funny (yes I am)**
+Besides learning, I love having long walks and good conversations with people.
 
+## Currently vibin' with:
+- ⚛️ React  
+- 🧡 SvelteKit  
+- 🎨 TailwindCSS  
+- 🍃 MongoDB  
+- 🦾 TypeScript  
+- ☕ Java
 
-
-<h3 align="left">Languages and Tools:</h3>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshmichaitanya2008&show_icons=true&locale=en&layout=compact" alt="lakshmichaitanya2008" /></p>
+and much more.. 😁!
